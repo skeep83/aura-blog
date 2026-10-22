@@ -1,0 +1,13 @@
+title: "Aura Blog — Video Chat Inside Telegram"
+description: "Guides, comparisons and tips about random video chat: Omegle alternatives, language exchange, online safety. Aura runs right inside Telegram."
+url: "https://skeep83.github.io"
+baseurl: "/aura-blog"
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+theme: jekyll/minima
+minima:
+  skin: dark
+header_pages:
+  - index.md
