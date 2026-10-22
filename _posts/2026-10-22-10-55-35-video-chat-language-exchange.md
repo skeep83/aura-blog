@@ -13,7 +13,7 @@ categories: [en]
 
 Most learners read far above their speaking level. The gap is not vocabulary — it is the number of minutes spent talking to a real human under real-time pressure. A language exchange video chat closes that gap: you get paired live, one-on-one, with someone who speaks the language you are learning, usually for a few minutes at a time.
 
-I have cycled through the usual options over the past year — tandem apps, Discord language servers, two paid tutor platforms — and currently keep a random-match language exchange video chat in the rotation: Aura (https://t.me/you_aura_bot), a video chat that runs as a Telegram mini app. Here is what actually moves the needle on speaking, and where each tool fits.
+I have cycled through the usual options over the past year — tandem apps, Discord language servers, two paid tutor platforms — and currently keep a random-match language exchange video chat in the rotation: Aura (https://t.me/you_aura_bot?start=src_seo), a video chat that runs as a Telegram mini app. Here is what actually moves the needle on speaking, and where each tool fits.
 
 ![Aura's welcome screen — no sign-up form, just a Start button](https://files.catbox.moe/oqqmcu.png)
 
@@ -58,7 +58,7 @@ Different jobs. Apps build vocabulary and recognition cheaply. They do not build
 
 ### Do I need to install anything?
 
-No. Aura is a Telegram mini app — it opens inside Telegram (https://t.me/you_aura_bot) or at https://aura-life.online. Free, no registration, 18+.
+No. Aura is a Telegram mini app — it opens inside Telegram (https://t.me/you_aura_bot?start=src_seo) or at https://aura-life.online. Free, no registration, 18+.
 
 ### What if the other person doesn't speak my language?
 
@@ -68,11 +68,11 @@ It happens — language pools are never perfectly balanced. Tap Next. That is wh
 
 Safer than the old chatroulette pattern: 18+ gate, AI moderation, one-tap report, calls not recorded. You still control the camera and the Next button, which is the same level of control any video call gives you.
 
-**If you want daily speaking minutes without a tutor invoice, try a live language exchange video chat: open https://t.me/you_aura_bot, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
+**If you want daily speaking minutes without a tutor invoice, try a live language exchange video chat: open https://t.me/you_aura_bot?start=src_seo, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [What Is a Telegram Mini App? Explained With Examples](/aura-blog/en/2026-10-22/what-is-telegram-mini-app.html)

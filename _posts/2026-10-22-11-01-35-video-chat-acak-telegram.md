@@ -11,7 +11,7 @@ categories: [id]
 
 # Video Chat Acak: Random Chat Video Tanpa Install Aplikasi
 
-**Video chat acak** identik dengan Omegle — sampai layanan itu ditutup pada November 2023. Sejak itu, ruangannya diisi aplikasi yang minta registrasi, langganan berbayar, dan iklan di setiap sudut layar. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot)) mengambil jalur berbeda: video chat acak yang hidup di dalam Telegram sebagai mini app. Tidak ada aplikasi baru untuk diunduh, tidak ada akun baru untuk dibuat — cukup buka botnya, pilih, dan mulai bicara.
+**Video chat acak** identik dengan Omegle — sampai layanan itu ditutup pada November 2023. Sejak itu, ruangannya diisi aplikasi yang minta registrasi, langganan berbayar, dan iklan di setiap sudut layar. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo)) mengambil jalur berbeda: video chat acak yang hidup di dalam Telegram sebagai mini app. Tidak ada aplikasi baru untuk diunduh, tidak ada akun baru untuk dibuat — cukup buka botnya, pilih, dan mulai bicara.
 
 ![Halaman awal Aura di dalam Telegram](https://files.catbox.moe/5y3xwr.jpg)
 
@@ -61,13 +61,13 @@ Panggilannya P2P dan tidak disimpan di server: begitu obrolan selesai, tidak ada
 
 Bisa. Bahasa Indonesia termasuk dari lebih 20 pilihan bahasa. Anda akan dipasangkan dengan orang yang memilih bahasa yang sama. Kalau ingin latihan bahasa Inggris, Mandarin, atau Arab, tinggal ganti pilihan sebelum menekan Start — cara murah dan cepat untuk latihan percakapan.
 
-**Coba video chat acak gratis: buka [t.me/you_aura_bot](https://t.me/you_aura_bot) dan tekan Start.**
+**Coba video chat acak gratis: buka [t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo) dan tekan Start.**
 
 *Gratis · 18+ · langsung di dalam Telegram*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)

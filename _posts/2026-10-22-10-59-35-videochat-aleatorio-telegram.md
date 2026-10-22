@@ -11,7 +11,7 @@ categories: [es]
 
 # Videochat aleatorio: hablar con un desconocido sin salir de Telegram
 
-El **videochat aleatorio** lleva más de una década intentando ser simple y casi siempre ha fallado en la parte simple: instalar una app, crear una cuenta, aceptar permisos, pagar una suscripción para que alguien te mire la cara. Aura (https://t.me/you_aura_bot) corta por lo sano. Es un videochat aleatorio que funciona como Mini App dentro de Telegram: eliges género, eliges tu idioma entre más de 20 opciones, pulsas Start y en segundos estás en videollamada uno a uno con un desconocido que habla tu idioma. Sin descarga, sin registro, gratis. La versión web también existe en https://aura-life.online. Eso sí: es solo para mayores de 18 años, y conviene entender bien qué ofrece y qué no antes de darle a Start.
+El **videochat aleatorio** lleva más de una década intentando ser simple y casi siempre ha fallado en la parte simple: instalar una app, crear una cuenta, aceptar permisos, pagar una suscripción para que alguien te mire la cara. Aura (https://t.me/you_aura_bot?start=src_seo) corta por lo sano. Es un videochat aleatorio que funciona como Mini App dentro de Telegram: eliges género, eliges tu idioma entre más de 20 opciones, pulsas Start y en segundos estás en videollamada uno a uno con un desconocido que habla tu idioma. Sin descarga, sin registro, gratis. La versión web también existe en https://aura-life.online. Eso sí: es solo para mayores de 18 años, y conviene entender bien qué ofrece y qué no antes de darle a Start.
 
 ![La pantalla de bienvenida de Aura: género, idioma y un botón](https://files.catbox.moe/oqqmcu.png)
 
@@ -61,13 +61,13 @@ Sí. No hay suscripción obligatoria ni pago para iniciar videollamadas. El mode
 
 La otra persona ve un emoji animado en lugar de tu cara, pero la llamada sigue siendo vídeo en directo con audio. Puedes quitar la máscara cuando quieras durante la conversación.
 
-**Prueba el videochat aleatorio sin instalar nada: abre https://t.me/you_aura_bot y pulsa Start.**
+**Prueba el videochat aleatorio sin instalar nada: abre https://t.me/you_aura_bot?start=src_seo y pulsa Start.**
 
 Gratis — 18+ — dentro de Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Conocer extranjeros online: videollamadas sin trabas](/aura-blog/es/2026-10-22/conocer-extranjeros-online.html)

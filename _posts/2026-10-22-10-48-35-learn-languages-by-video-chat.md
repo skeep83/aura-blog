@@ -28,7 +28,7 @@ None of this is a user failure; it's the format. Text-first exchange asks a stra
 
 The flow is six steps and takes under a minute:
 
-1. Open [https://t.me/you_aura_bot](https://t.me/you_aura_bot) inside Telegram. The Mini App loads in a chat window — nothing to download. Web entry: [https://aura-life.online](https://aura-life.online).
+1. Open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) inside Telegram. The Mini App loads in a chat window — nothing to download. Web entry: [https://aura-life.online](https://aura-life.online).
 2. Pick who you want to meet: a guy or a girl.
 3. Select every language you speak. The 20+ list includes English, Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese and more.
 4. Allow camera and microphone. The permission screen states the rules: peer-to-peer video, not recorded, 18+ AI moderation.
@@ -73,13 +73,13 @@ Any of the 20+ in the picker: English, Russian, Ukrainian, Spanish, German, Turk
 
 Use the emoji mask mode — you're on video, your face isn't. The mini-games also give you something to say besides self-introductions.
 
-**Your next native-speaker conversation is one tap away — open https://t.me/you_aura_bot, pick your languages, and press Start.**
+**Your next native-speaker conversation is one tap away — open https://t.me/you_aura_bot?start=src_seo, pick your languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Omegle Alternative: Random Video Chat Inside Telegram](/aura-blog/en/2026-10-22/omegle-alternative-telegram.html)

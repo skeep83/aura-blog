@@ -19,7 +19,7 @@ A Telegram mini app is a web app that opens inside the Telegram interface throug
 
 - **Zero install.** No app store, no download size, no update cycle. The app is a URL that Telegram frames.
 - **Zero signup.** Telegram already knows who you are. There is no email, no password, no "verify your phone" wall.
-- **Distribution by link.** A mini app spreads as a bot link — like [https://t.me/you_aura_bot](https://t.me/you_aura_bot) — not as an App Store listing competing with a million others.
+- **Distribution by link.** A mini app spreads as a bot link — like [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) — not as an App Store listing competing with a million others.
 
 For a while, mini apps mostly meant tap-games and crypto toys. The format's real strength is smaller, social, impulse-driven software — exactly the stuff app-store friction killed.
 
@@ -70,19 +70,19 @@ They're websites rendered by Telegram's client, with permission prompts for came
 
 ### Do I need to install anything for Aura?
 
-No. If Telegram is on your device, open [https://t.me/you_aura_bot](https://t.me/you_aura_bot) and go. There's also a web entry at aura-life.online.
+No. If Telegram is on your device, open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) and go. There's also a web entry at aura-life.online.
 
 ### How is this different from Omegle or OmeTV?
 
 Omegle shut down in November 2023; OmeTV and Chatroulette run their own apps with their own accounts. Aura lives inside Telegram as a mini app — no install, no signup — and filters matches by language, which none of the originals did.
 
-**The format proves itself by disappearing — open https://t.me/you_aura_bot and you're in a video call before you'd have finished an app-store download page.**
+**The format proves itself by disappearing — open https://t.me/you_aura_bot?start=src_seo and you're in a video call before you'd have finished an app-store download page.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Language Exchange Video Chat: How It Works](/aura-blog/en/2026-10-22/video-chat-language-exchange.html)

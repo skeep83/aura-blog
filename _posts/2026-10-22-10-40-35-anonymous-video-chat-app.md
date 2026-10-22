@@ -11,7 +11,7 @@ categories: [en]
 
 # The Anonymous Video Chat App That Hides Your Face, Not the Call
 
-Most "anonymous" video chat is a lie of omission: no account, but your face, room and background identify you to the stranger the moment the call connects — and on older platforms, to whoever scraped the stream. A real anonymous video chat app should give you two separate dials: one for *what the platform knows about you* and one for *what the other person sees*. Aura (https://t.me/you_aura_bot), a random 1-on-1 video chat that runs inside Telegram, is the first product I have tested that exposes both dials honestly: zero registration, and an optional emoji face-mask that keeps the video live while hiding your identity. Here is how the two layers work, and where the limits are.
+Most "anonymous" video chat is a lie of omission: no account, but your face, room and background identify you to the stranger the moment the call connects — and on older platforms, to whoever scraped the stream. A real anonymous video chat app should give you two separate dials: one for *what the platform knows about you* and one for *what the other person sees*. Aura (https://t.me/you_aura_bot?start=src_seo), a random 1-on-1 video chat that runs inside Telegram, is the first product I have tested that exposes both dials honestly: zero registration, and an optional emoji face-mask that keeps the video live while hiding your identity. Here is how the two layers work, and where the limits are.
 
 ## Layer One: Anonymity From the Platform
 
@@ -55,7 +55,7 @@ No — the call is still live two-way video and audio; only your rendered image 
 
 ### Do I need to create an account?
 
-No. Aura runs inside Telegram (https://t.me/you_aura_bot) as a mini app: free, no download, no registration, 18+.
+No. Aura runs inside Telegram (https://t.me/you_aura_bot?start=src_seo) as a mini app: free, no download, no registration, 18+.
 
 ### How is this different from just turning my camera off?
 
@@ -65,11 +65,11 @@ Turning the camera off ends the product's premise — a video chat where nobody 
 
 It is 18+ with AI moderation on every call and one-tap reporting — the same posture that kept OmeTV standing after Omegle fell. Calls are P2P and not recorded, so "what happens in the call" genuinely stays in the call.
 
-**If you want a video chat that takes your anonymity as seriously as your boredom: open https://t.me/you_aura_bot, tick the mask, press Start. Free — 18+ — runs inside Telegram.**
+**If you want a video chat that takes your anonymity as seriously as your boredom: open https://t.me/you_aura_bot?start=src_seo, tick the mask, press Start. Free — 18+ — runs inside Telegram.**
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Best Omegle Alternatives 2026: 6 Random Video Chats](/aura-blog/en/2026-10-22/best-omegle-alternatives-2026.html)

@@ -11,7 +11,7 @@ categories: [de]
 
 # Zufälliger Videochat ohne Download: so funktioniert Aura in Telegram
 
-Der Markt für **zufälligen Videochat** ist seit dem Omegle-Aus im November 2023 eine einzige Hürdenstrecke: App herunterladen, Konto anlegen, E-Mail bestätigen, Abo abschließen — bis endlich ein echtes Gesicht im Bildschirm erscheint. Aura (https://t.me/you_aura_bot) dreht den Spieß um. Es ist ein zufälliger Videochat, der als Mini App direkt in Telegram läuft: Geschlecht wählen, Sprache aus über 20 Optionen wählen, Start drücken — und wenige Sekunden später sitzt man einem Fremden gegenübers, der dieselbe Sprache spricht. Kein Download, keine Registrierung, kostenlos. Wer lieber im Browser chattet, findet unter https://aura-life.online dieselbe App. Eine Bedingung gibt es: 18 Plus, ohne Ausnahme.
+Der Markt für **zufälligen Videochat** ist seit dem Omegle-Aus im November 2023 eine einzige Hürdenstrecke: App herunterladen, Konto anlegen, E-Mail bestätigen, Abo abschließen — bis endlich ein echtes Gesicht im Bildschirm erscheint. Aura (https://t.me/you_aura_bot?start=src_seo) dreht den Spieß um. Es ist ein zufälliger Videochat, der als Mini App direkt in Telegram läuft: Geschlecht wählen, Sprache aus über 20 Optionen wählen, Start drücken — und wenige Sekunden später sitzt man einem Fremden gegenübers, der dieselbe Sprache spricht. Kein Download, keine Registrierung, kostenlos. Wer lieber im Browser chattet, findet unter https://aura-life.online dieselbe App. Eine Bedingung gibt es: 18 Plus, ohne Ausnahme.
 
 ![Die Willkommensseite von Aura: Geschlecht, Sprache, ein Button](https://files.catbox.moe/oqqmcu.png)
 
@@ -61,13 +61,13 @@ Ja. Es gibt keine Pflicht-Subscription und keine Gebühr für Videogespräche.
 
 Im Emoji-Maskenmodus sieht die andere Person nur ein animiertes Emoji, während Audio und Live-Video weiterlaufen. Die Maske lässt sich jederzeit während des Gesprächs abnehmen.
 
-**Probier den zufälligen Videochat ohne Installation: https://t.me/you_aura_bot öffnen und Start drücken.**
+**Probier den zufälligen Videochat ohne Installation: https://t.me/you_aura_bot?start=src_seo öffnen und Start drücken.**
 
 Kostenlos — 18+ — direkt in Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Zufälliger Videochat im Telegram-Mini-App: Aura im Test](/aura-blog/de/2026-10-22/videochat-zufallig-telegram.html)

@@ -40,7 +40,7 @@ Chatroulette and OmeTV still operate the 2010 model: a big public firehose, mode
 
 ![Aura's welcome screen with the online counter](https://files.catbox.moe/oqqmcu.png)
 
-1. Open [https://t.me/you_aura_bot](https://t.me/you_aura_bot).
+1. Open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo).
 2. Choose guy or girl.
 3. Select your languages.
 4. Allow camera and mic — the screen itself lists the privacy rules.
@@ -64,13 +64,13 @@ Yes. Aura has an optional emoji mask mode that keeps you on video while hiding y
 
 Not the content — the escalation. The pattern to fear is a stranger rushing you off-platform toward payment links or private shows. Stay on the moderated platform and press Next.
 
-**Safer by design, not by luck — try it at https://t.me/you_aura_bot and see how fast a moderated random call feels.**
+**Safer by design, not by luck — try it at https://t.me/you_aura_bot?start=src_seo and see how fast a moderated random call feels.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)

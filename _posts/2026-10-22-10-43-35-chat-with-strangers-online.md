@@ -11,7 +11,7 @@ categories: [en]
 
 # How to Chat with Strangers Online Without the Old Mess
 
-People still want to chat with strangers online — the demand never died, only the venues did. Omegle shut down in November 2023 after seventeen years, and its traffic scattered across Chatroulette, OmeTV, Bazo, Chamet and a hundred clones of varying hygiene. I have spent the last months testing the current options, including Aura (https://t.me/you_aura_bot), a random 1-on-1 video chat that runs entirely inside Telegram. This is a field guide, not an ad: what changed, what to look for, and where each option actually stands in 2026.
+People still want to chat with strangers online — the demand never died, only the venues did. Omegle shut down in November 2023 after seventeen years, and its traffic scattered across Chatroulette, OmeTV, Bazo, Chamet and a hundred clones of varying hygiene. I have spent the last months testing the current options, including Aura (https://t.me/you_aura_bot?start=src_seo), a random 1-on-1 video chat that runs entirely inside Telegram. This is a field guide, not an ad: what changed, what to look for, and where each option actually stands in 2026.
 
 ## What Changed After Omegle Shut Down
 
@@ -50,7 +50,7 @@ More than it was in the Omegle era, because the surviving platforms are moderate
 
 ### Do I need to download an app?
 
-Not for Aura — it runs inside Telegram (https://t.me/you_aura_bot). Chatroulette, OmeTV, Bazo and Chamet all push mobile apps, though the first two also work in a browser.
+Not for Aura — it runs inside Telegram (https://t.me/you_aura_bot?start=src_seo). Chatroulette, OmeTV, Bazo and Chamet all push mobile apps, though the first two also work in a browser.
 
 ### Why did Omegle actually shut down?
 
@@ -60,11 +60,11 @@ Moderation costs and legal pressure around minors on an unmoderated platform. Th
 
 On Aura: no registration means no profile attached to your handle, and the emoji mask mode hides your face while keeping the call live. No platform can make the *other* person anonymous — you are always the one choosing what to reveal.
 
-**If you just want to talk to a new human tonight without installing anything, open https://t.me/you_aura_bot, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
+**If you just want to talk to a new human tonight without installing anything, open https://t.me/you_aura_bot?start=src_seo, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Dating App Fatigue: Why Random Video Chat Works](/aura-blog/en/2026-10-22/dating-app-fatigue-alternative.html)

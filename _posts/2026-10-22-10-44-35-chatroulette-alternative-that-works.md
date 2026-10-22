@@ -26,7 +26,7 @@ Meanwhile the thing people loved — instant, anonymous, zero-friction — got o
 
 Aura is a Telegram Mini App, so the "app" is a chat window in a messenger most people already have. The flow is six steps:
 
-1. Open [https://t.me/you_aura_bot](https://t.me/you_aura_bot) — the Mini App loads inside Telegram.
+1. Open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) — the Mini App loads inside Telegram.
 2. Choose who you want to meet: a guy or a girl.
 3. Pick the languages you speak: English, Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese and more, 20+ in total.
 4. Grant camera and microphone access. The permission screen spells out the rules: peer-to-peer video, not recorded, 18+ AI moderation.
@@ -67,13 +67,13 @@ Yes. No registration, no subscription, no app purchase. You need Telegram and yo
 
 Yes — an optional emoji mask mode lets you keep video on while your face stays hidden.
 
-**Ready for random chat that grew up? Skip the app stores and the ad walls — open https://t.me/you_aura_bot, pick your languages, and press Start.**
+**Ready for random chat that grew up? Skip the app stores and the ad walls — open https://t.me/you_aura_bot?start=src_seo, pick your languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [How to Meet Foreigners Online: Video Chat That Works](/aura-blog/en/2026-10-22/how-to-meet-foreigners-online.html)

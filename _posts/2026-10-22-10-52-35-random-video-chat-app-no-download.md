@@ -23,7 +23,7 @@ Aura sidesteps the entire funnel. Telegram is already on your phone, so the "dow
 
 The flow takes under a minute:
 
-1. Open [https://t.me/you_aura_bot](https://t.me/you_aura_bot) inside Telegram — or visit the web version at [https://aura-life.online](https://aura-life.online).
+1. Open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) inside Telegram — or visit the web version at [https://aura-life.online](https://aura-life.online).
 2. Tap who you want to meet: a guy or a girl.
 3. Select the languages you speak — English, Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese, and more across a 20+ language list.
 4. Allow camera and microphone. The permission screen lists the privacy rules in plain language: peer-to-peer video, not recorded, 18+ AI moderation.
@@ -70,13 +70,13 @@ Safety doesn't come from the app wrapper. Aura has 18+ AI moderation, one-tap re
 
 Yes. Telegram Mini Apps run identically on phone and desktop, so Aura works wherever Telegram works.
 
-**Skip the app store entirely — the random video chat app that installs nothing is one tap away at https://t.me/you_aura_bot.**
+**Skip the app store entirely — the random video chat app that installs nothing is one tap away at https://t.me/you_aura_bot?start=src_seo.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Video Chat for Shy People: Mask Mode, Games, No Sign-Up](/aura-blog/en/2026-10-22/video-chat-for-shy-people.html)

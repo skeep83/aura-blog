@@ -21,7 +21,7 @@ The old way to get this was Omegle-style roulette (Omegle itself shut down in No
 
 ## How to practice English video chat with Aura: step by step
 
-1. **Open the bot.** [https://t.me/you_aura_bot](https://t.me/you_aura_bot) inside Telegram — the Mini App loads in a chat window. Nothing to install. Web entry: [https://aura-life.online](https://aura-life.online).
+1. **Open the bot.** [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) inside Telegram — the Mini App loads in a chat window. Nothing to install. Web entry: [https://aura-life.online](https://aura-life.online).
 2. **Pick a gender preference.** Guy or girl. Done.
 3. **Select your languages.** Choose English plus your native language. The full list has 20+ languages: Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese and more — so you can also match with learners of your own language.
 4. **Allow camera and mic.** The permission screen states the privacy rules: peer-to-peer video, not recorded, 18+ AI moderation. There's an optional emoji mask if showing your face stresses you out.
@@ -63,13 +63,13 @@ Aura runs 18+ AI moderation, one-tap reporting on every call, and peer-to-peer v
 
 Yes. Aura supports 20+ languages including Russian, Spanish, German, Turkish, Arabic, Hindi and Chinese. Pick every language you speak and match accordingly.
 
-**Your next English conversation is sixty seconds away — open https://t.me/you_aura_bot, select English, press Start, and talk.**
+**Your next English conversation is sixty seconds away — open https://t.me/you_aura_bot?start=src_seo, select English, press Start, and talk.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Telegram Mini Apps: Why Video Chat Moved Into the Chat List](/aura-blog/en/2026-10-22/telegram-mini-apps-video-chat.html)

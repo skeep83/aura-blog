@@ -11,7 +11,7 @@ categories: [pt]
 
 # Chat de vídeo aleatório: a videochamada com estranhos que roda dentro do Telegram
 
-O **chat de vídeo aleatório** prometia simplicidade desde o Chatroulette, mas virou uma corrida de barreiras: baixar app, criar conta, verificar e-mail, assinar para ter acesso decente. O Aura (https://t.me/you_aura_bot) inverte essa lógica. É um chat de vídeo aleatório um a um que funciona como Mini App dentro do Telegram — você escolhe gênero, escolhe seu idioma entre mais de 20 opções, aperta Start e cai numa videochamada ao vivo com um desconhecido que fala a sua língua. Sem download, sem cadastro, de graça. Também tem versão web em https://aura-life.online. Regra única e inegociável: só para maiores de 18.
+O **chat de vídeo aleatório** prometia simplicidade desde o Chatroulette, mas virou uma corrida de barreiras: baixar app, criar conta, verificar e-mail, assinar para ter acesso decente. O Aura (https://t.me/you_aura_bot?start=src_seo) inverte essa lógica. É um chat de vídeo aleatório um a um que funciona como Mini App dentro do Telegram — você escolhe gênero, escolhe seu idioma entre mais de 20 opções, aperta Start e cai numa videochamada ao vivo com um desconhecido que fala a sua língua. Sem download, sem cadastro, de graça. Também tem versão web em https://aura-life.online. Regra única e inegociável: só para maiores de 18.
 
 ![A tela de boas-vindas do Aura: gênero, idioma e um botão](https://files.catbox.moe/oqqmcu.png)
 
@@ -61,13 +61,13 @@ Sim. Não há assinatura obrigatória nem cobrança para iniciar videochamadas.
 
 Ele vê um emoji animado no lugar do seu rosto, mas a chamada segue ao vivo com áudio normal. Você pode tirar a máscara a qualquer momento da conversa.
 
-**Experimente o chat de vídeo aleatório sem instalar nada: abra https://t.me/you_aura_bot e aperte Start.**
+**Experimente o chat de vídeo aleatório sem instalar nada: abra https://t.me/you_aura_bot?start=src_seo e aperte Start.**
 
 Grátis — 18+ — dentro do Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)

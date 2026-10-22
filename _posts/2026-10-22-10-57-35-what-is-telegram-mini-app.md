@@ -11,7 +11,7 @@ categories: [en]
 
 # What Is a Telegram Mini App? An Explainer With a Live Example
 
-A Telegram mini app is a web application that launches inside Telegram's interface — no install, no separate account, no app store — using the messenger as the delivery layer. If you have used a game or tool that opened as a panel over your chat list and felt "native" without being an app you downloaded, that was a mini app. The fastest way to understand what is a Telegram mini app in practice is to run one: Aura (https://t.me/you_aura_bot) is a random 1-on-1 video chat built as a mini app, and it uses almost every capability the format offers. Let me walk through the mechanics, then show where Aura sits in them.
+A Telegram mini app is a web application that launches inside Telegram's interface — no install, no separate account, no app store — using the messenger as the delivery layer. If you have used a game or tool that opened as a panel over your chat list and felt "native" without being an app you downloaded, that was a mini app. The fastest way to understand what is a Telegram mini app in practice is to run one: Aura (https://t.me/you_aura_bot?start=src_seo) is a random 1-on-1 video chat built as a mini app, and it uses almost every capability the format offers. Let me walk through the mechanics, then show where Aura sits in them.
 
 ## The Technical Shape: A Web App With a Bridge
 
@@ -63,11 +63,11 @@ It is the same permission model as any website: the OS prompt governs it, and yo
 
 Yes — Telegram is the delivery layer. If you already have it, there is nothing else to install: free, 18+, nothing to download.
 
-**To see the format do something real, open https://t.me/you_aura_bot — the video chat launches in one tap. Free — 18+ — runs inside Telegram.**
+**To see the format do something real, open https://t.me/you_aura_bot?start=src_seo — the video chat launches in one tap. Free — 18+ — runs inside Telegram.**
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Apps Like Omegle: What Actually Replaced It in 2026](/aura-blog/en/2026-10-22/apps-like-omegle.html)

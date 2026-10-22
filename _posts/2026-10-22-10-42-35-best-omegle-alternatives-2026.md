@@ -21,7 +21,7 @@ We only included services where you can reach a live stranger on video within ab
 
 ### 1. Aura — random video chat inside Telegram
 
-Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot)) is a Telegram Mini App: no download, no separate registration, no new password to forget. You pick your gender and one of 20+ languages, hit Start, and you're in a live P2P video call with a stranger who speaks your language. Calls aren't recorded, there's an emoji face-mask mode if you don't feel camera-ready, icebreaker mini-games for the awkward first ten seconds, one-tap reporting, and AI moderation. It's free. The trade-offs are real: you need a Telegram account, the user pool is smaller than the incumbents, and P2P means your IP is technically visible to your match. If "open an app I already use, press one button, talk to someone" is your whole requirement, nothing else on this list is faster.
+Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo)) is a Telegram Mini App: no download, no separate registration, no new password to forget. You pick your gender and one of 20+ languages, hit Start, and you're in a live P2P video call with a stranger who speaks your language. Calls aren't recorded, there's an emoji face-mask mode if you don't feel camera-ready, icebreaker mini-games for the awkward first ten seconds, one-tap reporting, and AI moderation. It's free. The trade-offs are real: you need a Telegram account, the user pool is smaller than the incumbents, and P2P means your IP is technically visible to your match. If "open an app I already use, press one button, talk to someone" is your whole requirement, nothing else on this list is faster.
 
 ### 2. OmeTV — the crowd favorite
 
@@ -63,13 +63,13 @@ Safer than 2022, not risk-free. Look for: enforced 18+, visible moderation (huma
 
 All six are free to start. OmeTV, Chatrandom, Bazo, Camsurf, and Chamet upsell filters, gender matching, or unlimited time. Aura's core matching is free with no paywall on the basic Start/Next loop — its edge is that the "app" is a Telegram Mini App, so there's nothing to install.
 
-**Try the fastest one: open [t.me/you_aura_bot](https://t.me/you_aura_bot) and press Start.**
+**Try the fastest one: open [t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo) and press Start.**
 
 *Free · 18+ · inside Telegram*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Chatroulette Alternative That Actually Works in 2026](/aura-blog/en/2026-10-22/chatroulette-alternative-that-works.html)

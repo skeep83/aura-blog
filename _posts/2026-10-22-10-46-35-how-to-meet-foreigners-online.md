@@ -25,7 +25,7 @@ What actually works is the opposite: instant, video-first, filtered by language,
 
 ## How to meet foreigners online in six steps with Aura
 
-1. **Open the bot.** Go to [https://t.me/you_aura_bot](https://t.me/you_aura_bot) inside Telegram. The Mini App loads in a chat window — nothing to download. You can also start from the web at [https://aura-life.online](https://aura-life.online).
+1. **Open the bot.** Go to [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) inside Telegram. The Mini App loads in a chat window — nothing to download. You can also start from the web at [https://aura-life.online](https://aura-life.online).
 2. **Pick who you want to meet.** A guy or a girl. That's the whole preference system.
 3. **Choose your languages.** The list covers 20+: English, Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese and more. Pick every language you actually speak.
 4. **Allow camera and mic.** The permission screen states the rules plainly: peer-to-peer video, not recorded, 18+ AI moderation. There is also an optional emoji mask if you don't want to show your face.
@@ -69,13 +69,13 @@ Aura keeps it safer than the old sites: 18+ AI moderation, one-tap reporting, pe
 
 No. Aura supports 20+ languages, including Russian, Spanish, Turkish, Arabic, Hindi and Chinese. You match with people who share a language you speak.
 
-**Stop collecting pen pals you never talk to — open https://t.me/you_aura_bot, pick your languages, and meet a foreigner in the next sixty seconds.**
+**Stop collecting pen pals you never talk to — open https://t.me/you_aura_bot?start=src_seo, pick your languages, and meet a foreigner in the next sixty seconds.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Language Exchange App: Trade Languages on Live Video](/aura-blog/en/2026-10-22/learn-languages-by-video-chat.html)

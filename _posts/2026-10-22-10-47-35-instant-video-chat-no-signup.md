@@ -11,7 +11,7 @@ categories: [en]
 
 # Instant Video Chat: How to Talk to a Stranger Before Your Coffee Cools
 
-Most "instant video chat" services aren't instant. They're instant after you download 180 MB, verify an email, pick a username, crop a profile photo, and sit through a paywall interstitial. True **instant video chat** means the gap between deciding to talk to someone and actually seeing a face is measured in seconds. That's the exact gap Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot)) is built to close: a random video chat that runs as a Mini App inside Telegram — no download, no sign-up, no new password to invent at 11 p.m.
+Most "instant video chat" services aren't instant. They're instant after you download 180 MB, verify an email, pick a username, crop a profile photo, and sit through a paywall interstitial. True **instant video chat** means the gap between deciding to talk to someone and actually seeing a face is measured in seconds. That's the exact gap Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo)) is built to close: a random video chat that runs as a Mini App inside Telegram — no download, no sign-up, no new password to invent at 11 p.m.
 
 ![Aura's start screen inside Telegram](https://files.catbox.moe/oqqmcu.png)
 
@@ -55,13 +55,13 @@ Among mainstream options, Aura is the fastest to first contact because there is 
 
 Just Telegram, which most users already have. Aura is a Mini App — it runs inside the Telegram window on phone, tablet, or desktop. No app-store download, no separate account, and nothing left on your phone when you close the chat.
 
-**The shortest path to a stranger: open [t.me/you_aura_bot](https://t.me/you_aura_bot) and press Start.**
+**The shortest path to a stranger: open [t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo) and press Start.**
 
 *Free · 18+ · inside Telegram*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Meet Strangers on Video Chat Safely: A Practical Guide](/aura-blog/en/2026-10-22/meet-strangers-video-chat-safely.html)

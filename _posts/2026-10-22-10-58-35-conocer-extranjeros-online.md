@@ -11,7 +11,7 @@ categories: [es]
 
 # Conocer extranjeros online sin apps de citas ni cursos de idiomas
 
-**Conocer extranjeros online** se ha vuelto más difícil, no más fácil. Las apps de citas convierten el azar en un catálogo con filtros de pago; las apps de intercambio de idiomas piden escribir párrafos antes de que alguien te conteste; los cursos te enseñan gramática pero no te obligan a abrir la boca. Lo que la mayoría de la gente quería desde el principio era más simple: que alguien al otro lado del mundo te hable, en tu idioma o en el que estás aprendiendo, y que la conversación fluya sola. Aura (https://t.me/you_aura_bot) hace exactamente eso. Es un videochat uno a uno dentro de Telegram: eliges género, eliges entre más de 20 idiomas, pulsas Start y hablas con una persona real. Sin descargar nada, sin registrarte, gratis y para mayores de 18.
+**Conocer extranjeros online** se ha vuelto más difícil, no más fácil. Las apps de citas convierten el azar en un catálogo con filtros de pago; las apps de intercambio de idiomas piden escribir párrafos antes de que alguien te conteste; los cursos te enseñan gramática pero no te obligan a abrir la boca. Lo que la mayoría de la gente quería desde el principio era más simple: que alguien al otro lado del mundo te hable, en tu idioma o en el que estás aprendiendo, y que la conversación fluya sola. Aura (https://t.me/you_aura_bot?start=src_seo) hace exactamente eso. Es un videochat uno a uno dentro de Telegram: eliges género, eliges entre más de 20 idiomas, pulsas Start y hablas con una persona real. Sin descargar nada, sin registrarte, gratis y para mayores de 18.
 
 ![La bienvenida de Aura: elige género e idioma y empieza](https://files.catbox.moe/5y3xwr.jpg)
 
@@ -48,13 +48,13 @@ No. Aura funciona como Mini App dentro de Telegram (o en la web, aura-life.onlin
 
 Sí: 18+ obligatorio, moderación con IA sobre el vídeo y reporte con un toque. Las llamadas no se graban, así que no queda rastro en servidores.
 
-**Empieza a conocer extranjeros online en menos de 20 segundos: https://t.me/you_aura_bot.**
+**Empieza a conocer extranjeros online en menos de 20 segundos: https://t.me/you_aura_bot?start=src_seo.**
 
 Gratis — 18+ — dentro de Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Videochat aleatorio en Telegram: así funciona Aura](/aura-blog/es/2026-10-22/videochat-aleatorio-telegram.html)

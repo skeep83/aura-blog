@@ -11,7 +11,7 @@ categories: [en]
 
 # Dating App Fatigue: Why Random Video Chat Is the Low-Pressure Way Out
 
-Dating app fatigue has a measurable shape: you open the app, swipe for twenty minutes, match with three people, and one of them replies "hey." The effort is in the catalog, not the conversation. I hit that wall hard this year, deleted two apps, and ended up testing the thing swiping was supposedly replacing decades ago — random 1-on-1 video chat. Specifically Aura (https://t.me/you_aura_bot), which runs as a Telegram mini app. This is not a pitch that video chat finds you a spouse. It is an argument that dating app fatigue is a design problem, and random video chat is a structurally different design.
+Dating app fatigue has a measurable shape: you open the app, swipe for twenty minutes, match with three people, and one of them replies "hey." The effort is in the catalog, not the conversation. I hit that wall hard this year, deleted two apps, and ended up testing the thing swiping was supposedly replacing decades ago — random 1-on-1 video chat. Specifically Aura (https://t.me/you_aura_bot?start=src_seo), which runs as a Telegram mini app. This is not a pitch that video chat finds you a spouse. It is an argument that dating app fatigue is a design problem, and random video chat is a structurally different design.
 
 ## Why Swiping Feels Like Admin Work
 
@@ -49,7 +49,7 @@ It is a *meeting* alternative. It removes the catalog layer that causes the fati
 
 ### How is Aura different from OmeTV or Bazo?
 
-Distribution and friction, mostly. Aura runs inside Telegram (https://t.me/you_aura_bot, web: https://aura-life.online) — no download, no sign-up, free. Bazo and Chamet lean dating-game with paid features; OmeTV requires an account. Aura's moderation is AI-based with 18+ gating and one-tap reporting.
+Distribution and friction, mostly. Aura runs inside Telegram (https://t.me/you_aura_bot?start=src_seo, web: https://aura-life.online) — no download, no sign-up, free. Bazo and Chamet lean dating-game with paid features; OmeTV requires an account. Aura's moderation is AI-based with 18+ gating and one-tap reporting.
 
 ### Isn't video chat with strangers more awkward than swiping?
 
@@ -59,11 +59,11 @@ The first ten seconds are. After that it is strictly easier, because you are doi
 
 Not immediately — the optional emoji mask mode keeps the call live while hiding your face. No call is recorded, and there is no profile photo to upload at all.
 
-**If swiping has started to feel like email, try the low-pressure route: open https://t.me/you_aura_bot, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
+**If swiping has started to feel like email, try the low-pressure route: open https://t.me/you_aura_bot?start=src_seo, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Instant Video Chat: Talk to Strangers With No Sign-Up](/aura-blog/en/2026-10-22/instant-video-chat-no-signup.html)

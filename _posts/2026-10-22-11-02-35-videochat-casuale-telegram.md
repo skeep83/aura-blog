@@ -11,7 +11,7 @@ categories: [it]
 
 # Videochat casuale: la guida completa a una chat video dentro Telegram
 
-La **videochat casuale** è nata per un motivo semplice: parlare con qualcuno che non conosci, senza costruire un profilo, senza caricare foto, senza settimane di swipe. Con la chiusura di Omegle nel novembre 2023, però, molti servizi hanno riempito lo spazio con app pesanti, muri di registrazione e pubblicità aggressiva. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot)) prova un'altra strada: una videochat casuale che vive dentro Telegram, come mini app. Nessuna installazione, nessun account nuovo — apri il bot, scegli, parli.
+La **videochat casuale** è nata per un motivo semplice: parlare con qualcuno che non conosci, senza costruire un profilo, senza caricare foto, senza settimane di swipe. Con la chiusura di Omegle nel novembre 2023, però, molti servizi hanno riempito lo spazio con app pesanti, muri di registrazione e pubblicità aggressiva. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo)) prova un'altra strada: una videochat casuale che vive dentro Telegram, come mini app. Nessuna installazione, nessun account nuovo — apri il bot, scegli, parli.
 
 ![La landing page di Aura dentro Telegram](https://files.catbox.moe/oqqmcu.png)
 
@@ -61,13 +61,13 @@ Le chiamate sono P2P e non vengono salvate su server: finita la conversazione, n
 
 Puoi scegliere tra oltre 20 lingue prima di iniziare. Se selezioni l'italiano verrai abbinato a persone che hanno scelto la stessa lingua; se vuoi esercitarti con l'inglese, lo spagnolo o il portoghese, basta cambiare selezione. È il modo più rapido di usare una videochat casuale anche come pratica di conversazione in lingua.
 
-**Prova la videochat casuale gratis: apri [t.me/you_aura_bot](https://t.me/you_aura_bot) e premi Start.**
+**Prova la videochat casuale gratis: apri [t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo) e premi Start.**
 
 *Gratis · 18+ · dentro Telegram*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Apps Like Omegle: What Actually Replaced It in 2026](/aura-blog/en/2026-10-22/apps-like-omegle.html)

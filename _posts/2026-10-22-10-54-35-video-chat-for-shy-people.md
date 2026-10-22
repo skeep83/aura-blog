@@ -25,7 +25,7 @@ The shy person's problem isn't people. It's being perceived with no controls. Re
 
 **Mini-games as icebreakers.** The worst moment in random chat is the first five seconds of two strangers performing small talk. Aura ships built-in mini-games, so the call has a shared activity. You're not "a shy person trying to be interesting" — you're someone playing a game with another person. The conversation happens sideways, which is how shy people do it best anyway.
 
-**No sign-up pressure.** No account, no username, no profile photo, no bio to write. You open [https://t.me/you_aura_bot](https://t.me/you_aura_bot) inside Telegram — nothing to download — and you're in. The whole "who are you, what do you write about yourself" performance is skipped.
+**No sign-up pressure.** No account, no username, no profile photo, no bio to write. You open [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo) inside Telegram — nothing to download — and you're in. The whole "who are you, what do you write about yourself" performance is skipped.
 
 ![Aura's permission screen with the mask checkbox](https://files.catbox.moe/689mp6.png)
 
@@ -64,13 +64,13 @@ Use the built-in mini-games — they generate the conversation for you. The lang
 
 Aura is free with no subscription, uses 18+ AI moderation and one-tap reporting, and the video is peer-to-peer and not recorded — your partner sees you only during the call.
 
-**The panic was never the strangers — it was the exposure. Mask up, pick a language, and try one call at https://t.me/you_aura_bot.**
+**The panic was never the strangers — it was the exposure. Mask up, pick a language, and try one call at https://t.me/you_aura_bot?start=src_seo.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Video Chat Safety: 7 Rules for Talking to Strangers](/aura-blog/en/2026-10-22/video-chat-safety-tips.html)

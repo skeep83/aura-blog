@@ -19,7 +19,7 @@ People don't leave random video chat because it's risky in the abstract; they le
 
 Judge any random video chat by five concrete features, not marketing copy:
 
-1. **An enforced 18+ gate.** Adults-only isn't a vibe, it's a filter. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot)), OmeTV, Chatrandom, Bazo, and Chamet all gate on age; services that don't are telling you what they optimize for.
+1. **An enforced 18+ gate.** Adults-only isn't a vibe, it's a filter. Aura ([t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo)), OmeTV, Chatrandom, Bazo, and Chamet all gate on age; services that don't are telling you what they optimize for.
 2. **Real moderation, visible in the UI.** Aura combines AI content moderation with user reports; OmeTV leans on human plus community flagging. What matters is that you can see moderation exists and invoke it.
 3. **One-tap reporting.** A report button buried three menus deep is decoration. One tap, immediately, is the standard Omegle-era services failed and 2026 services are judged against.
 4. **Honest recording policy.** Aura's calls are peer-to-peer and **not recorded** — nothing sits on a server after you hang up. Other platforms store clips for moderation. Neither is evil, but you can't consent to what you can't see disclosed.
@@ -54,13 +54,13 @@ It means the platform doesn't store the call — Aura's P2P calls never touch a 
 
 Three structural things: calls are P2P and unrecorded; the whole experience lives inside Telegram, so there's no new app collecting contacts or permissions; and the 18+ rule, AI moderation, and one-tap report are front and center rather than in settings. Its smaller user pool is the honest trade-off versus OmeTV's crowd size.
 
-**Meet someone now — safely, and with nothing to install: [t.me/you_aura_bot](https://t.me/you_aura_bot).**
+**Meet someone now — safely, and with nothing to install: [t.me/you_aura_bot](https://t.me/you_aura_bot?start=src_seo).**
 
 *Free · 18+ · inside Telegram*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Practice English Video Chat: Talk to Strangers in Minutes](/aura-blog/en/2026-10-22/practice-english-video-chat.html)

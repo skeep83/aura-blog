@@ -25,7 +25,7 @@ What people actually miss is not Omegle itself — it is the instantness. The id
 
 Aura is a Telegram Mini App, which means the whole experience happens in a chat window of a messenger you already have. Here is the full flow, start to finish:
 
-1. Open the bot at [https://t.me/you_aura_bot](https://t.me/you_aura_bot). The Mini App loads inside Telegram — nothing to install.
+1. Open the bot at [https://t.me/you_aura_bot?start=src_seo](https://t.me/you_aura_bot?start=src_seo). The Mini App loads inside Telegram — nothing to install.
 2. Pick who you want to meet: a guy or a girl.
 3. Select the languages you speak. The list has 20+ options: English, Russian, Ukrainian, Spanish, German, Turkish, Arabic, Hindi, Chinese and more.
 4. Allow camera and microphone. The permission screen states the privacy rules in plain text: peer-to-peer video, nothing recorded, 18+ AI moderation.
@@ -66,13 +66,13 @@ Safer by design: 18+ AI moderation, one-tap reporting, nothing recorded, and an 
 
 No. If Telegram is already on your device, you open the bot and go. No email, no password, no app download.
 
-**Tired of dead links and ad walls? The omegle alternative that actually works lives in your messenger — open https://t.me/you_aura_bot, pick your gender and languages, and press Start.**
+**Tired of dead links and ad walls? The omegle alternative that actually works lives in your messenger — open https://t.me/you_aura_bot?start=src_seo, pick your gender and languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Random Video Chat App With No Download: Aura in Telegram](/aura-blog/en/2026-10-22/random-video-chat-app-no-download.html)

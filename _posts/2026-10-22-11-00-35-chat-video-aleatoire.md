@@ -11,7 +11,7 @@ categories: [fr]
 
 # Chat vidéo aléatoire : la visio avec des inconnus qui tourne dans Telegram
 
-Le **chat vidéo aléatoire** n'a jamais tenu sa promesse de simplicité. Depuis la fermeture d'Omegle en novembre 2023, ses successeurs empilent les barrières : application à télécharger, compte à créer, e-mail à confirmer, abonnement à payer pour enfin voir un vrai visage en face. Aura (https://t.me/you_aura_bot) prend le problème à l'envers. C'est un chat vidéo aléatoire en un-à-un qui fonctionne comme Mini App directement dans Telegram : vous choisissez un genre, votre langue parmi plus de 20 disponibles, vous appuyez sur Start, et quelques secondes plus tard vous êtes en visio avec un inconnu qui parle votre langue. Sans téléchargement, sans inscription, gratuitement. Une version web existe aussi sur https://aura-life.online. Seule règle, claire : 18 et plus.
+Le **chat vidéo aléatoire** n'a jamais tenu sa promesse de simplicité. Depuis la fermeture d'Omegle en novembre 2023, ses successeurs empilent les barrières : application à télécharger, compte à créer, e-mail à confirmer, abonnement à payer pour enfin voir un vrai visage en face. Aura (https://t.me/you_aura_bot?start=src_seo) prend le problème à l'envers. C'est un chat vidéo aléatoire en un-à-un qui fonctionne comme Mini App directement dans Telegram : vous choisissez un genre, votre langue parmi plus de 20 disponibles, vous appuyez sur Start, et quelques secondes plus tard vous êtes en visio avec un inconnu qui parle votre langue. Sans téléchargement, sans inscription, gratuitement. Une version web existe aussi sur https://aura-life.online. Seule règle, claire : 18 et plus.
 
 ![L'accueil d'Aura : genre, langue, un bouton](https://files.catbox.moe/oqqmcu.png)
 
@@ -59,13 +59,13 @@ Oui. Pas d'abonnement obligatoire, pas de frais pour lancer un appel vidéo.
 
 En mode masque émoji, l'interlocuteur ne voit qu'un émoji animé tandis que l'audio et la vidéo restent en direct. Le masque s'enlève à tout moment pendant la conversation.
 
-**Testez le chat vidéo aléatoire sans rien installer : ouvrez https://t.me/you_aura_bot et appuyez sur Start.**
+**Testez le chat vidéo aléatoire sans rien installer : ouvrez https://t.me/you_aura_bot?start=src_seo et appuyez sur Start.**
 
 Gratuit — 18+ — dans Telegram
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Zufälliger Videochat im Telegram-Mini-App: Aura im Test](/aura-blog/de/2026-10-22/videochat-zufallig-telegram.html)

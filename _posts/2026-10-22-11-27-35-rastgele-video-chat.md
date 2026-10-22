@@ -11,7 +11,7 @@ categories: [tr]
 
 # Rastgele Görüntülü Sohbet: İndirmesiz, Kayıtsız, Telegram İçinde
 
-Rastgele görüntülü sohbet denince çoğu kişinin aklında hâlâ aynı sahne var: bir sekme aç, kamera izni ver, tanımadığın birinin yüzü ekrana düşsün. Omegle Kasım 2023'te kapandığından beri bu deneyimi arayanlar OmeTV, Chatrandom, Bazo ve Chamet gibi servislere dağıldı; ama hiçbiri eski "tarayıcıya gir ve konuş" hafifliğini tam olarak geri getirmedi. Aura (https://t.me/you_aura_bot) farklı bir kapı deniyor: rastgele görüntülü sohbet uygulaması ayrı bir uygulama değil, doğrudan Telegram'ın içinde çalışan bir Mini App. Cinsiyet tercihini seç, 20+ dil içinden kendini rahat hissettiğin dili işaretle, Start'a bas — yabancılarla görüntülü sohbet birkaç saniye içinde başlıyor. Ne indirme var, ne kayıt formu, ne abonelik.
+Rastgele görüntülü sohbet denince çoğu kişinin aklında hâlâ aynı sahne var: bir sekme aç, kamera izni ver, tanımadığın birinin yüzü ekrana düşsün. Omegle Kasım 2023'te kapandığından beri bu deneyimi arayanlar OmeTV, Chatrandom, Bazo ve Chamet gibi servislere dağıldı; ama hiçbiri eski "tarayıcıya gir ve konuş" hafifliğini tam olarak geri getirmedi. Aura (https://t.me/you_aura_bot?start=src_seo) farklı bir kapı deniyor: rastgele görüntülü sohbet uygulaması ayrı bir uygulama değil, doğrudan Telegram'ın içinde çalışan bir Mini App. Cinsiyet tercihini seç, 20+ dil içinden kendini rahat hissettiğin dili işaretle, Start'a bas — yabancılarla görüntülü sohbet birkaç saniye içinde başlıyor. Ne indirme var, ne kayıt formu, ne abonelik.
 
 ## Akış gerçekten ne kadar kısa?
 
@@ -54,13 +54,13 @@ Hayır. Bağlantı P2P'dir ve sunucu tarafında kayıt tutulmuyor. Yine de karş
 
 Temel kullanım ücretsizdir. Servis 18+ ve akışta yapay zekâ moderasyonu ile tek dokunuşlu şikâyet mekanizması çalışıyor; uygunsuz davranışta Next ile çıkmak da her zaman elinizde.
 
-**Denemek 20 saniye: https://t.me/you_aura_bot — aç, tercihini seç, Start'a bas.**
+**Denemek 20 saniye: https://t.me/you_aura_bot?start=src_seo — aç, tercihini seç, Start'a bas.**
 
 *Ücretsiz · 18+ · Telegram içinde*
 
 ---
 
-**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot> · [Все гиды / All guides](/aura-blog/)
+**Попробовать Aura / Try Aura:** <https://t.me/you_aura_bot?start=src_seo> · [Все гиды / All guides](/aura-blog/)
 
 **Читайте также / More guides:**
 - [Zufälliger Videochat im Telegram-Mini-App: Aura im Test](/aura-blog/de/2026-10-22/videochat-zufallig-telegram.html)
