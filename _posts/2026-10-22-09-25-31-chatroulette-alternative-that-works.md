@@ -70,3 +70,12 @@ Yes — an optional emoji mask mode lets you keep video on while your face stays
 **Ready for random chat that grew up? Skip the app stores and the ad walls — open https://t.me/you_aura_bot, pick your languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Dating App Fatigue: Why Random Video Chat Works](/aura-blog/en/2026-10-22/dating-app-fatigue-alternative.html)
+- [How to Meet Foreigners Online: Video Chat That Works](/aura-blog/en/2026-10-22/how-to-meet-foreigners-online.html)
+- [Language Exchange App: Trade Languages on Live Video](/aura-blog/en/2026-10-22/learn-languages-by-video-chat.html)

@@ -72,3 +72,12 @@ No. Aura supports 20+ languages, including Russian, Spanish, Turkish, Arabic, Hi
 **Stop collecting pen pals you never talk to — open https://t.me/you_aura_bot, pick your languages, and meet a foreigner in the next sixty seconds.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Language Exchange App: Trade Languages on Live Video](/aura-blog/en/2026-10-22/learn-languages-by-video-chat.html)
+- [Omegle Alternative: Random Video Chat Inside Telegram](/aura-blog/en/2026-10-22/omegle-alternative-telegram.html)
+- [Practice English Video Chat: Talk to Strangers in Minutes](/aura-blog/en/2026-10-22/practice-english-video-chat.html)

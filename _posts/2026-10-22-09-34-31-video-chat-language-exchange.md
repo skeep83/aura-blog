@@ -69,3 +69,12 @@ It happens — language pools are never perfectly balanced. Tap Next. That is wh
 Safer than the old chatroulette pattern: 18+ gate, AI moderation, one-tap report, calls not recorded. You still control the camera and the Next button, which is the same level of control any video call gives you.
 
 **If you want daily speaking minutes without a tutor invoice, try a live language exchange video chat: open https://t.me/you_aura_bot, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Video Chat Safety: 7 Rules for Talking to Strangers](/aura-blog/en/2026-10-22/video-chat-safety-tips.html)
+- [What Is a Telegram Mini App? Explained With Examples](/aura-blog/en/2026-10-22/what-is-telegram-mini-app.html)
+- [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)

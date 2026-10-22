@@ -64,3 +64,12 @@ It is the same permission model as any website: the OS prompt governs it, and yo
 Yes — Telegram is the delivery layer. If you already have it, there is nothing else to install: free, 18+, nothing to download.
 
 **To see the format do something real, open https://t.me/you_aura_bot — the video chat launches in one tap. Free — 18+ — runs inside Telegram.**
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)
+- [Apps Like Omegle: What Actually Replaced It in 2026](/aura-blog/en/2026-10-22/apps-like-omegle.html)
+- [Chat with Strangers Online: A 2026 Field Guide](/aura-blog/en/2026-10-22/chat-with-strangers-online.html)

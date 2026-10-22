@@ -69,3 +69,12 @@ No. If Telegram is already on your device, you open the bot and go. No email, no
 **Tired of dead links and ad walls? The omegle alternative that actually works lives in your messenger — open https://t.me/you_aura_bot, pick your gender and languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Practice English Video Chat: Talk to Strangers in Minutes](/aura-blog/en/2026-10-22/practice-english-video-chat.html)
+- [Random Video Chat App With No Download: Aura in Telegram](/aura-blog/en/2026-10-22/random-video-chat-app-no-download.html)
+- [Telegram Mini Apps: Why Video Chat Moved Into the Chat List](/aura-blog/en/2026-10-22/telegram-mini-apps-video-chat.html)

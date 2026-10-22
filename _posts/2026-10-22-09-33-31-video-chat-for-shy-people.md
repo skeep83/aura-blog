@@ -67,3 +67,12 @@ Aura is free with no subscription, uses 18+ AI moderation and one-tap reporting,
 **The panic was never the strangers — it was the exposure. Mask up, pick a language, and try one call at https://t.me/you_aura_bot.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Language Exchange Video Chat: How It Works](/aura-blog/en/2026-10-22/video-chat-language-exchange.html)
+- [Video Chat Safety: 7 Rules for Talking to Strangers](/aura-blog/en/2026-10-22/video-chat-safety-tips.html)
+- [What Is a Telegram Mini App? Explained With Examples](/aura-blog/en/2026-10-22/what-is-telegram-mini-app.html)

@@ -66,3 +66,12 @@ Yes. Aura supports 20+ languages including Russian, Spanish, German, Turkish, Ar
 **Your next English conversation is sixty seconds away — open https://t.me/you_aura_bot, select English, press Start, and talk.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Random Video Chat App With No Download: Aura in Telegram](/aura-blog/en/2026-10-22/random-video-chat-app-no-download.html)
+- [Telegram Mini Apps: Why Video Chat Moved Into the Chat List](/aura-blog/en/2026-10-22/telegram-mini-apps-video-chat.html)
+- [Video Chat for Shy People: Mask Mode, Games, No Sign-Up](/aura-blog/en/2026-10-22/video-chat-for-shy-people.html)

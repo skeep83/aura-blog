@@ -79,3 +79,12 @@ Omegle shut down in November 2023; OmeTV and Chatroulette run their own apps wit
 **The format proves itself by disappearing — open https://t.me/you_aura_bot and you're in a video call before you'd have finished an app-store download page.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Video Chat for Shy People: Mask Mode, Games, No Sign-Up](/aura-blog/en/2026-10-22/video-chat-for-shy-people.html)
+- [Language Exchange Video Chat: How It Works](/aura-blog/en/2026-10-22/video-chat-language-exchange.html)
+- [Video Chat Safety: 7 Rules for Talking to Strangers](/aura-blog/en/2026-10-22/video-chat-safety-tips.html)

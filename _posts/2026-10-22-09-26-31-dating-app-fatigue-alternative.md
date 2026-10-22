@@ -60,3 +60,12 @@ The first ten seconds are. After that it is strictly easier, because you are doi
 Not immediately — the optional emoji mask mode keeps the call live while hiding your face. No call is recorded, and there is no profile photo to upload at all.
 
 **If swiping has started to feel like email, try the low-pressure route: open https://t.me/you_aura_bot, pick your languages, press Start. Free — 18+ — runs inside Telegram.**
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [How to Meet Foreigners Online: Video Chat That Works](/aura-blog/en/2026-10-22/how-to-meet-foreigners-online.html)
+- [Language Exchange App: Trade Languages on Live Video](/aura-blog/en/2026-10-22/learn-languages-by-video-chat.html)
+- [Omegle Alternative: Random Video Chat Inside Telegram](/aura-blog/en/2026-10-22/omegle-alternative-telegram.html)

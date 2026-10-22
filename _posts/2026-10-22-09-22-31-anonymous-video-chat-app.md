@@ -66,3 +66,12 @@ Turning the camera off ends the product's premise — a video chat where nobody 
 It is 18+ with AI moderation on every call and one-tap reporting — the same posture that kept OmeTV standing after Omegle fell. Calls are P2P and not recorded, so "what happens in the call" genuinely stays in the call.
 
 **If you want a video chat that takes your anonymity as seriously as your boredom: open https://t.me/you_aura_bot, tick the mask, press Start. Free — 18+ — runs inside Telegram.**
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Apps Like Omegle: What Actually Replaced It in 2026](/aura-blog/en/2026-10-22/apps-like-omegle.html)
+- [Chat with Strangers Online: A 2026 Field Guide](/aura-blog/en/2026-10-22/chat-with-strangers-online.html)
+- [Chatroulette Alternative That Actually Works in 2026](/aura-blog/en/2026-10-22/chatroulette-alternative-that-works.html)

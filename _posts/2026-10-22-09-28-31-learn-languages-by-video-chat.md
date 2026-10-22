@@ -76,3 +76,12 @@ Use the emoji mask mode — you're on video, your face isn't. The mini-games als
 **Your next native-speaker conversation is one tap away — open https://t.me/you_aura_bot, pick your languages, and press Start.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Omegle Alternative: Random Video Chat Inside Telegram](/aura-blog/en/2026-10-22/omegle-alternative-telegram.html)
+- [Practice English Video Chat: Talk to Strangers in Minutes](/aura-blog/en/2026-10-22/practice-english-video-chat.html)
+- [Random Video Chat App With No Download: Aura in Telegram](/aura-blog/en/2026-10-22/random-video-chat-app-no-download.html)

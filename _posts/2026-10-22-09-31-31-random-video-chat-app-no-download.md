@@ -73,3 +73,12 @@ Yes. Telegram Mini Apps run identically on phone and desktop, so Aura works wher
 **Skip the app store entirely — the random video chat app that installs nothing is one tap away at https://t.me/you_aura_bot.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [Telegram Mini Apps: Why Video Chat Moved Into the Chat List](/aura-blog/en/2026-10-22/telegram-mini-apps-video-chat.html)
+- [Video Chat for Shy People: Mask Mode, Games, No Sign-Up](/aura-blog/en/2026-10-22/video-chat-for-shy-people.html)
+- [Language Exchange Video Chat: How It Works](/aura-blog/en/2026-10-22/video-chat-language-exchange.html)

@@ -67,3 +67,12 @@ Not the content — the escalation. The pattern to fear is a stranger rushing yo
 **Safer by design, not by luck — try it at https://t.me/you_aura_bot and see how fast a moderated random call feels.**
 
 Free - 18+ - runs inside Telegram
+
+---
+
+**Попробовать Aura:** <https://t.me/you_aura_bot> · [Все гиды](/aura-blog/)
+
+**Читайте также:**
+- [What Is a Telegram Mini App? Explained With Examples](/aura-blog/en/2026-10-22/what-is-telegram-mini-app.html)
+- [Anonymous Video Chat App: Mask Mode, No Sign-Up](/aura-blog/en/2026-10-22/anonymous-video-chat-app.html)
+- [Apps Like Omegle: What Actually Replaced It in 2026](/aura-blog/en/2026-10-22/apps-like-omegle.html)
