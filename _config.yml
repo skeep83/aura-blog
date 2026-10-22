@@ -4,9 +4,10 @@ url: "https://skeep83.github.io"
 baseurl: "/aura-blog"
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-theme: jekyll/minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 header_pages:
