@@ -18,4 +18,5 @@ Browse the guides below: Omegle alternatives, language exchange, video-chat safe
   <a href="https://toolfio.com" target="_blank" rel="noopener"><img src="https://toolfio.com/toolfio-light-badge.png" alt="Featured on Toolfio" width="200" height="54" style="vertical-align:middle;" /></a>
   &nbsp;
   <a href="https://fazier.com/" title="Featured on Fazier"><img src="https://fazier.com/api/v1/public/badges/launch_badges.svg?badge_type=launched&amp;theme=neutral" alt="Featured on Fazier" height="32" style="vertical-align:middle;"></a>
+  &nbsp;&nbsp;<a href="https://codehype.ai" title="Featured on CodeHype"><img src="https://launchigniter.com/api/badge/codehype?theme=light" alt="Featured on CodeHype" height="32" style="vertical-align:middle;"></a>
 </p>
