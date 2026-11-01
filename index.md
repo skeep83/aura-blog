@@ -15,6 +15,7 @@ Browse the guides below: Omegle alternatives, language exchange, video-chat safe
 
 <p style="text-align:center; margin-top:2rem;">
   <a href="https://toolfio.com/" title="Featured on ToolFio"><img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Featured on ToolFio" height="32" style="vertical-align:middle;"></a>
+  <a href="https://toolfio.com" target="_blank" rel="noopener"><img src="https://toolfio.com/toolfio-light-badge.png" alt="Featured on Toolfio" width="200" height="54" style="vertical-align:middle;" /></a>
   &nbsp;
   <a href="https://fazier.com/" title="Featured on Fazier"><img src="https://fazier.com/api/v1/public/badges/launch_badges.svg?badge_type=launched&amp;theme=neutral" alt="Featured on Fazier" height="32" style="vertical-align:middle;"></a>
 </p>
